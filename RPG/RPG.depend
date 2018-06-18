@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1528760600 source:c:\users\gfire\documents\uvv\programação\jogo cb\rpg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<math.h>
+
